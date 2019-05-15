@@ -1,0 +1,26 @@
+.orange{
+    color: orange;
+}
+
+.mytable{
+  background-color: whitesmoke;
+  text-align: left;
+  font-family: Verdana;
+  
+  width: 60%;
+  margin: auto;
+  text-align: left;
+}
+
+
+.iLoveLasagne h2{
+  font-family: Verdana;
+  font-size: 4vh;
+  text-align: left;
+  padding-left: 4vw;
+  color: blue;
+}
+
+h2{
+  font-family: Verdana;
+}
